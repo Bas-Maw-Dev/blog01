@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Enhancing understanding of Rails 'Convention' to improve coding abilities.
+This is being done by following and evolving the online [Rails Guides](https://guides.rubyonrails.org/)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ * Getting started with Rails: date 16/10/24
+ * [Testing Rails Applications](https://guides.rubyonrails.org/testing.html): date 17/10/24
