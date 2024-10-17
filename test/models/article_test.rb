@@ -10,7 +10,8 @@ class ArticleTest < ActiveSupport::TestCase
   end
 
   test "should report error" do
-    some_undefined_variable
-    assert true
+    assert_raises(NameError) do
+      some_undefined_variable
+    end
   end
 end
